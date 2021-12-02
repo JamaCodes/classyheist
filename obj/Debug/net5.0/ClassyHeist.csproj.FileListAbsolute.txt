@@ -1,0 +1,16 @@
+C:\Users\jamam\workspace\csharp\ClassyHeist\obj\Debug\net5.0\ClassyHeist.csproj.AssemblyReference.cache
+C:\Users\jamam\workspace\csharp\ClassyHeist\obj\Debug\net5.0\ClassyHeist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamam\workspace\csharp\ClassyHeist\obj\Debug\net5.0\ClassyHeist.AssemblyInfoInputs.cache
+C:\Users\jamam\workspace\csharp\ClassyHeist\obj\Debug\net5.0\ClassyHeist.AssemblyInfo.cs
+C:\Users\jamam\workspace\csharp\ClassyHeist\obj\Debug\net5.0\ClassyHeist.csproj.CoreCompileInputs.cache
+C:\Users\jamam\workspace\csharp\ClassyHeist\bin\Debug\net5.0\ClassyHeist.exe
+C:\Users\jamam\workspace\csharp\ClassyHeist\bin\Debug\net5.0\ClassyHeist.deps.json
+C:\Users\jamam\workspace\csharp\ClassyHeist\bin\Debug\net5.0\ClassyHeist.runtimeconfig.json
+C:\Users\jamam\workspace\csharp\ClassyHeist\bin\Debug\net5.0\ClassyHeist.runtimeconfig.dev.json
+C:\Users\jamam\workspace\csharp\ClassyHeist\bin\Debug\net5.0\ClassyHeist.dll
+C:\Users\jamam\workspace\csharp\ClassyHeist\bin\Debug\net5.0\ref\ClassyHeist.dll
+C:\Users\jamam\workspace\csharp\ClassyHeist\bin\Debug\net5.0\ClassyHeist.pdb
+C:\Users\jamam\workspace\csharp\ClassyHeist\obj\Debug\net5.0\ClassyHeist.dll
+C:\Users\jamam\workspace\csharp\ClassyHeist\obj\Debug\net5.0\ref\ClassyHeist.dll
+C:\Users\jamam\workspace\csharp\ClassyHeist\obj\Debug\net5.0\ClassyHeist.pdb
+C:\Users\jamam\workspace\csharp\ClassyHeist\obj\Debug\net5.0\ClassyHeist.genruntimeconfig.cache
