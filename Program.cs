@@ -25,13 +25,16 @@ namespace ClassyHeist
                 MrOffWhite,
                 MrFushia
             };
-           
+           while (true){
             prompt($"Number of operatives in the Rolodex: {Rolodex.Count}");
 
-            // prompt("Would you like to Add a Crew Member:(Y/N)");
-            // string WouldYouLikeToAdd = Console.ReadLine();
-
-            prompt("Enter the name of a new possible crew member");
+             prompt("Would you like to Add a Crew Member:(y/n)");
+            string WouldYouLikeToAdd = Console.ReadLine();
+            if (string.Equals("N", "n", StringComparison.CurrentCultureIgnoreCase))
+                {
+                    break;
+                }
+            prompt("Enter the name of a new scumbag");
             string newOperator = Console.ReadLine();
             
             prompt(" 1. Hacker(Disables alarms)\n 2. Muscle(Disarms guards)\n 3. Lock Specialist (Cracks vault)");
@@ -83,10 +86,11 @@ namespace ClassyHeist
             };
             return Rolodex;
            }
-    Console.WriteLine($"{Rolodex.Count}");
+            Console.WriteLine($"{Rolodex.Count}");
     
-            void prompt(string Question){Console.WriteLine($"{Question}");}
             
+           }
+            void prompt(string Question){Console.WriteLine($"{Question}");}
         }
     }
 }
