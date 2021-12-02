@@ -7,6 +7,10 @@ namespace ClassyHeist
         public string Name {get; set;}
         public int SkillLevel {get ; set;}
         public int PercentageCut {get ; set;}
+         public override string ToString()
+        {
+            return "muscle";
+        }
 
         public void PerformSkill(bank Bank)
         {
