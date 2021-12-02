@@ -6,6 +6,8 @@ namespace ClassyHeist
         int SkillLevel { get; set; }
 
         int PercentageCut { get; set; }
+
+        
         void PerformSkill(bank bank);
     };
 }
