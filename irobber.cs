@@ -8,6 +8,6 @@ namespace ClassyHeist
         int PercentageCut { get; set; }
 
         
-        void PerformSkill(bank bank);
+        void PerformSkill(Bank bank);
     };
 }

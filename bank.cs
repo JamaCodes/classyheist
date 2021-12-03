@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace ClassyHeist
 {
-    public class bank 
+    public class Bank 
     {
         public int CashOnHand {get; set;}
         public int AlarmScore{get; set;}
@@ -39,16 +39,17 @@ namespace ClassyHeist
             } 
         }
 
-        public bool IsSecure {
+        public bool IsSecure
+        {
             get
-            {   
-                if (CashOnHand <=0 && AlarmScore <=0 && VaultScore <=0 && SecurityGaurdScore <=0)
+            {
+                if (AlarmScore <= 0 && VaultScore <= 0 && SecurityGaurdScore <= 0)
                 {
                     return false;
                 }
                 else return true;
-            }
 
+            }
         }
     }
 }

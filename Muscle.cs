@@ -12,7 +12,7 @@ namespace ClassyHeist
             return "muscle";
         }
 
-        public void PerformSkill(bank Bank)
+        public void PerformSkill(Bank Bank)
         {
             Bank.VaultScore = Bank.VaultScore - SkillLevel;
 
